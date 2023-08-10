@@ -1,0 +1,44 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main Flowchart.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Flowchart_1",
+        "item&Flowchart_1",
+        "browser_RPAChallenge&Flowchart_1",
+        "str_DtOutput&Sequence_10",
+        "str_FilePath&Sequence_12",
+        "str_Url&Sequence_12",
+        "fileName&Sequence_12",
+        "taxonomy&Sequence_14",
+        "documentText&Sequence_14",
+        "DOM&Sequence_14",
+        "extractionResults&Sequence_14",
+        "validatedResults&Sequence_14",
+        "dataset&Sequence_14",
+        "classificationResults&Sequence_14",
+        "filePath&Sequence_16"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
